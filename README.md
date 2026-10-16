@@ -237,3 +237,11 @@ If you have any questions, suggestions, or need assistance, please open an issue
 ---
 
 Created by [Timothy Jaeryang Baek](https://github.com/tjbck) - Let's make Open WebUI even more amazing together! 💪
+
+---
+
+## Mantenimiento de esta copia
+
+Este repositorio conserva la documentación técnica, instalación, licencias, referencias y créditos del proyecto original **Open WebUI** y sus colaboradores. Para actualizaciones de seguridad y versiones vigentes, consulta [la documentación oficial](https://docs.openwebui.com/). Esta copia no implica afiliación con los mantenedores originales.
+
+Mantenimiento de esta copia: **KNJ** · [KNJ Marketing](https://www.marketingknj.site/).
